@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="phoneText">Put Your url</string>
+    <string name="smsText">Put Your Text</string>
+    <string name="call">Call</string>
+    <string name="sms">Sms</string>
+</resources>
